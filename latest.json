@@ -1,7 +1,7 @@
 {
- "versionCode": 50,
- "versionName": "0.50",
+ "versionCode": 51,
+ "versionName": "0.51",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "109d28c1373f668b4a4cfe5526e0237e8e0bec406da0a59d3eece98e0ab3ca05",
- "notes": "Relief : alerte si le parcours passe trop près d'une colline, relevé de terrain qui suit la pente, profil du parcours (touche « 📈 profil »). Nouveaux vols auto : Panorama 360° et Hyperlapse (la Galerie crée la vidéo accélérée)."
+ "sha256": "0c44ed25020cd1001cb7d55d552ad4e318380b0998ab63018cf272feb6085911",
+ "notes": "Nouvelle source météo gratuite (prévisions DWD via Bright Sky) : rafales, probabilité de pluie, visibilité ; station la plus proche indiquée. Secours : MET Norway."
 }
