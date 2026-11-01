@@ -1,7 +1,7 @@
 {
- "versionCode": 56,
- "versionName": "0.56",
+ "versionCode": 57,
+ "versionName": "0.57",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "f692365ca63b35a71769b3520004d3de959a1ced70d3db34641c421c5323e4bb",
- "notes": "Simulateur : le bandeau violet ne cache plus la boussole."
+ "sha256": "fceab061a38c97dd70fb6d7355e4a1a3ead518ad26aa68074ceead1d12967b76",
+ "notes": "Follow Me : le téléphone envoie maintenant sa pression (baromètre) au drone, et le journal dit ce qui manque. Préparation de SkyLibre Pro pour le Play Store (ta version reste entièrement débloquée)."
 }
