@@ -1,7 +1,7 @@
 {
- "versionCode": 60,
- "versionName": "0.60",
+ "versionCode": 61,
+ "versionName": "0.61",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "4bb3a9f3bb9d86d2f1dbe7d9ee2c08ac401727823ae48df6f2dc57f738ef55c9",
- "notes": "Nouveau : aide en cas de panne (bandeau rouge « que faire ? »), écran Dépannage avec schéma du drone, outils et vidéos, et commande vocale « Jarvis, prends une photo » (Réglages du drone → Commande vocale)."
+ "sha256": "7347712c5a9fbca01b2e7f3331fe1708f790bfc2be65fc5b6d459a080a31d30c",
+ "notes": "Pays francophones : règles du pays où tu voles (France, Belgique, Suisse, Luxembourg, Monaco, Canada, Maroc, Tunisie, Sénégal, Côte d'Ivoire) et cartes officielles des zones drones en Belgique, Suisse et Luxembourg ; aéroports au Canada et ailleurs. Carte satellite corrigée hors de France."
 }
