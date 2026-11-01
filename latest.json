@@ -1,7 +1,7 @@
 {
- "versionCode": 51,
- "versionName": "0.51",
+ "versionCode": 52,
+ "versionName": "0.52",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "0c44ed25020cd1001cb7d55d552ad4e318380b0998ab63018cf272feb6085911",
- "notes": "Nouvelle source météo gratuite (prévisions DWD via Bright Sky) : rafales, probabilité de pluie, visibilité ; station la plus proche indiquée. Secours : MET Norway."
+ "sha256": "577478d048aeb38eeb65c02a139b19c265df170f44e42ec49beff1988e18919b",
+ "notes": "L'app s'appelle maintenant SkyLibre. Préparation de la version Google Play."
 }
