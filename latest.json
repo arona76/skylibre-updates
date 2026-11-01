@@ -1,7 +1,7 @@
 {
- "versionCode": 53,
- "versionName": "0.53",
+ "versionCode": 54,
+ "versionName": "0.54",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c2c421f023c7f0595c570bcefaa1c0df0e2774e2f9a665487e1043b2dbaca243",
- "notes": "Le bouton 📤 envoie maintenant ton journal directement au développeur par e-mail, avec un petit mot si tu veux."
+ "sha256": "5f65981794f640d5404c820aebd42e23c456e9936ef0f8fd9ab884cf9095f835",
+ "notes": "Envoi du journal au développeur amélioré."
 }
