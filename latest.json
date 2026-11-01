@@ -1,7 +1,7 @@
 {
- "versionCode": 61,
- "versionName": "0.61",
+ "versionCode": 62,
+ "versionName": "0.62",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "7347712c5a9fbca01b2e7f3331fe1708f790bfc2be65fc5b6d459a080a31d30c",
- "notes": "Pays francophones : règles du pays où tu voles (France, Belgique, Suisse, Luxembourg, Monaco, Canada, Maroc, Tunisie, Sénégal, Côte d'Ivoire) et cartes officielles des zones drones en Belgique, Suisse et Luxembourg ; aéroports au Canada et ailleurs. Carte satellite corrigée hors de France."
+ "sha256": "0cd30b520ccb4b4f8e140a0863f093ed0f34cd2c6015780a3c9ed4ff3d708420",
+ "notes": "Nouvelle voix Jarvis complète (commande vocale, pannes, scan, reprise). Une erreur moteur bloque le décollage. Les zones et règles des pays préviennent sans bloquer : c'est toi qui décides. Flight Plan : points jusqu'à 150 m, limites en simples avertissements, suivi des points plus fiable."
 }
