@@ -1,7 +1,7 @@
 {
- "versionCode": 52,
- "versionName": "0.52",
+ "versionCode": 53,
+ "versionName": "0.53",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "577478d048aeb38eeb65c02a139b19c265df170f44e42ec49beff1988e18919b",
- "notes": "L'app s'appelle maintenant SkyLibre. Préparation de la version Google Play."
+ "sha256": "c2c421f023c7f0595c570bcefaa1c0df0e2774e2f9a665487e1043b2dbaca243",
+ "notes": "Le bouton 📤 envoie maintenant ton journal directement au développeur par e-mail, avec un petit mot si tu veux."
 }
