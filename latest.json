@@ -1,7 +1,7 @@
 {
- "versionCode": 54,
- "versionName": "0.54",
+ "versionCode": 55,
+ "versionName": "0.55",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "5f65981794f640d5404c820aebd42e23c456e9936ef0f8fd9ab884cf9095f835",
- "notes": "Envoi du journal au développeur amélioré."
+ "sha256": "88f5d3f0cce1677f9da4acda3789702638801f7885ae84961be0628af54fbee1",
+ "notes": "Préparation de la version Google Play (aucun changement visible dans ta version perso)."
 }
