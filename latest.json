@@ -1,7 +1,7 @@
 {
- "versionCode": 59,
- "versionName": "0.59",
+ "versionCode": 60,
+ "versionName": "0.60",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "677f2fb3cf89d2dc5c808ba508b43049da40657567041d68f8c2d38f2b8f474c",
- "notes": "Alerte moteur bloqué : la vérification avant vol le signale en rouge et bloque le décollage, et la voix annonce « Moteur bloqué ! » en vol."
+ "sha256": "4bb3a9f3bb9d86d2f1dbe7d9ee2c08ac401727823ae48df6f2dc57f738ef55c9",
+ "notes": "Nouveau : aide en cas de panne (bandeau rouge « que faire ? »), écran Dépannage avec schéma du drone, outils et vidéos, et commande vocale « Jarvis, prends une photo » (Réglages du drone → Commande vocale)."
 }
