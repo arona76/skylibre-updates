@@ -1,0 +1,7 @@
+{
+ "versionCode": 50,
+ "versionName": "0.50",
+ "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
+ "sha256": "109d28c1373f668b4a4cfe5526e0237e8e0bec406da0a59d3eece98e0ab3ca05",
+ "notes": "Relief : alerte si le parcours passe trop près d'une colline, relevé de terrain qui suit la pente, profil du parcours (touche « 📈 profil »). Nouveaux vols auto : Panorama 360° et Hyperlapse (la Galerie crée la vidéo accélérée)."
+}
