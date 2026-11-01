@@ -1,7 +1,7 @@
 {
- "versionCode": 57,
- "versionName": "0.57",
+ "versionCode": 58,
+ "versionName": "0.58",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "fceab061a38c97dd70fb6d7355e4a1a3ead518ad26aa68074ceead1d12967b76",
- "notes": "Follow Me : le téléphone envoie maintenant sa pression (baromètre) au drone, et le journal dit ce qui manque. Préparation de SkyLibre Pro pour le Play Store (ta version reste entièrement débloquée)."
+ "sha256": "f44c952aaf699f93a543af086a16b09b113fc29e6f0b79838ce68a9373153a6d",
+ "notes": "Vols automatiques et Follow Me : message clair si le GPS du drone n'est pas prêt (au lieu de rester bloqué), alerte GPS à chaque décollage, « Je te suis » seulement quand le suivi démarre."
 }
