@@ -1,7 +1,7 @@
 {
- "versionCode": 55,
- "versionName": "0.55",
+ "versionCode": 56,
+ "versionName": "0.56",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "88f5d3f0cce1677f9da4acda3789702638801f7885ae84961be0628af54fbee1",
- "notes": "Préparation de la version Google Play (aucun changement visible dans ta version perso)."
+ "sha256": "f692365ca63b35a71769b3520004d3de959a1ced70d3db34641c421c5323e4bb",
+ "notes": "Simulateur : le bandeau violet ne cache plus la boussole."
 }
