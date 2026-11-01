@@ -1,7 +1,7 @@
 {
- "versionCode": 58,
- "versionName": "0.58",
+ "versionCode": 59,
+ "versionName": "0.59",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "f44c952aaf699f93a543af086a16b09b113fc29e6f0b79838ce68a9373153a6d",
- "notes": "Vols automatiques et Follow Me : message clair si le GPS du drone n'est pas prêt (au lieu de rester bloqué), alerte GPS à chaque décollage, « Je te suis » seulement quand le suivi démarre."
+ "sha256": "677f2fb3cf89d2dc5c808ba508b43049da40657567041d68f8c2d38f2b8f474c",
+ "notes": "Alerte moteur bloqué : la vérification avant vol le signale en rouge et bloque le décollage, et la voix annonce « Moteur bloqué ! » en vol."
 }
