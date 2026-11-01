@@ -1,6 +1,6 @@
 # Politique de confidentialité — SkyLibre
 
-*Dernière mise à jour : 1er novembre 2026 (zones drones Suisse et Luxembourg)*
+*Dernière mise à jour : 1er novembre 2026 (zones drones Belgique, Suisse, Luxembourg)*
 
 SkyLibre est une application Android gratuite, développée par un particulier, pour piloter le drone Parrot Bebop 2 (avec ou sans la manette SkyController 2). SkyLibre est une application indépendante, non affiliée à Parrot.
 
@@ -23,7 +23,7 @@ Ces services reçoivent l'adresse IP de votre téléphone (comme pour toute conn
 |---|---|---|
 | Bright Sky (prévisions du Deutscher Wetterdienst) et MET Norway | Météo « Puis-je voler ? » | Les coordonnées du lieu (arrondies) |
 | IGN (Géoplateforme) et Esri | Photos aériennes de la carte, zones drones officielles | Les numéros des « tuiles » de carte affichées (donc la zone regardée) |
-| Office fédéral de l'aviation civile suisse (geo.admin.ch) et Direction de l'aviation civile du Luxembourg (geoportail.lu) | Zones drones officielles en Suisse et au Luxembourg | Les tuiles de carte affichées ; en Suisse, la position du drone (pour connaître la zone où il se trouve) |
+| Office fédéral de l'aviation civile suisse (geo.admin.ch), Direction de l'aviation civile du Luxembourg (geoportail.lu), skeyes Droneguide (Belgique) | Zones drones officielles en Suisse, au Luxembourg et en Belgique | Les tuiles de carte affichées, ou la zone d'environ 20 km autour du drone ; en Suisse, la position du drone (pour connaître la zone où il se trouve) |
 | Amazon Web Services (Terrain Tiles) | Relief du terrain pour les parcours | Les numéros des tuiles de relief de la zone |
 | Google Play | Installation, mises à jour, achat « Sans pub » | Géré par Google selon ses propres règles |
 
