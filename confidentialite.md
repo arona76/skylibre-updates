@@ -4,12 +4,13 @@
 
 SkyLibre est une application Android gratuite, développée par un particulier, pour piloter le drone Parrot Bebop 2 (avec ou sans la manette SkyController 2). SkyLibre est une application indépendante, non affiliée à Parrot.
 
-**En résumé : SkyLibre ne demande aucun compte, ne collecte aucune donnée personnelle pour son développeur et ne revend rien.** Ce qui est décrit ci-dessous est ce que l'application envoie à des services tiers pour fonctionner.
+**En résumé : SkyLibre ne demande aucun compte et ne revend rien. Le développeur ne reçoit que les journaux que vous choisissez de lui envoyer.** Ce qui est décrit ci-dessous est ce que l'application envoie à des services tiers pour fonctionner.
 
 ## 1. Données qui restent sur votre téléphone
 
 - **Position du téléphone** (GPS) : utilisée sur le téléphone pour afficher la carte, calculer la distance au drone, le Follow Me (la position est alors envoyée **au drone seulement**, par sa liaison Wi-Fi), et la météo (voir point 2).
-- **Carnet de vol, journal de l'application, parcours (Flight Plan), réglages** : enregistrés uniquement sur votre téléphone. Le journal n'est envoyé à personne : il n'est partagé que si **vous** touchez le bouton « Partager » et choisissez vous-même le destinataire.
+- **Carnet de vol, journal de l'application, parcours (Flight Plan), réglages** : enregistrés uniquement sur votre téléphone. Le journal n'est envoyé que si **vous** touchez le bouton 📤 puis choisissez « Au développeur » (envoi par votre propre application e-mail à skylibreapp@gmail.com) ou un autre destinataire.
+- **Journaux envoyés au développeur** : ils contiennent le déroulé technique des vols (positions GPS du drone, états du drone, messages de l'application), le modèle du téléphone et la version d'Android, ainsi que votre adresse e-mail et le texte que vous ajoutez. Ils servent uniquement à corriger les problèmes de l'application. Ils sont lus par le développeur et analysés avec l'aide d'un assistant d'intelligence artificielle (Claude, d'Anthropic). Ils ne sont ni revendus ni utilisés pour de la publicité, et vous pouvez demander leur suppression à tout moment par e-mail.
 - **Photos et vidéos** : restent dans le drone et dans la galerie de votre téléphone.
 - L'application ne lit pas vos contacts, vos messages ni vos autres fichiers.
 
@@ -45,10 +46,10 @@ SkyLibre n'est pas destinée aux enfants de moins de 13 ans.
 
 ## 6. Vos droits
 
-Comme le développeur ne collecte aucune donnée personnelle, il n'en détient aucune à consulter, corriger ou supprimer. Pour effacer tout ce que l'application a enregistré sur votre téléphone, désinstallez-la ou videz ses données dans les réglages Android. Pour les données traitées par Google (publicité, achats), utilisez https://myaccount.google.com.
+En dehors des journaux que vous choisissez d'envoyer (voir point 1), le développeur ne détient aucune donnée vous concernant. Pour consulter ou supprimer un journal envoyé, écrivez à skylibreapp@gmail.com. Pour effacer tout ce que l'application a enregistré sur votre téléphone, désinstallez-la ou videz ses données dans les réglages Android. Pour les données traitées par Google (publicité, achats), utilisez https://myaccount.google.com.
 
 ## 7. Contact
 
-Pour toute question, écrivez au développeur via l'adresse e-mail indiquée sur la fiche Google Play de SkyLibre.
+Pour toute question : **skylibreapp@gmail.com**
 
 En cas de modification de cette politique, la date en haut de la page sera mise à jour.
