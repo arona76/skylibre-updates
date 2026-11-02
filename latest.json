@@ -1,7 +1,7 @@
 {
- "versionCode": 64,
- "versionName": "0.64",
+ "versionCode": 65,
+ "versionName": "0.65",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "08d051213b747c8695315f87bec6604f5aeff26cc32937ffff0a28022944502c",
- "notes": "Nouveau : redresser les photos fisheye. Galerie → 🔧 Redresser des photos (ou touche une photo récupérée). Une photo : gratuit ; plusieurs d'un coup : Pro. L'original est gardé, la photo droite va dans Images/Bebop/Redressées."
+ "sha256": "092296e37d7878a70f53a401e9af1ffd68a1170fc53df67f1d14fc29590cd65a",
+ "notes": "Nouveau : message de bienvenue à la première connexion, bouton 💬 « Ton avis compte » sur l'accueil (journal ou idée), et après un incident (urgence, moteur, connexion perdue, plantage) l'appli propose d'envoyer le journal."
 }
