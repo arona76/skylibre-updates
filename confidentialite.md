@@ -1,6 +1,6 @@
 # Politique de confidentialité — SkyLibre
 
-*Dernière mise à jour : 1er novembre 2026 (zones drones Belgique, Suisse, Luxembourg)*
+*Dernière mise à jour : 2 novembre 2026 (zones drones Allemagne, Norvège, Suède, Finlande, Danemark, États-Unis)*
 
 SkyLibre est une application Android gratuite, développée par un particulier, pour piloter le drone Parrot Bebop 2 (avec ou sans la manette SkyController 2). SkyLibre est une application indépendante, non affiliée à Parrot.
 
@@ -24,6 +24,9 @@ Ces services reçoivent l'adresse IP de votre téléphone (comme pour toute conn
 | Bright Sky (prévisions du Deutscher Wetterdienst) et MET Norway | Météo « Puis-je voler ? » | Les coordonnées du lieu (arrondies) |
 | IGN (Géoplateforme) et Esri | Photos aériennes de la carte, zones drones officielles | Les numéros des « tuiles » de carte affichées (donc la zone regardée) |
 | Office fédéral de l'aviation civile suisse (geo.admin.ch), Direction de l'aviation civile du Luxembourg (geoportail.lu), skeyes Droneguide (Belgique) | Zones drones officielles en Suisse, au Luxembourg et en Belgique | Les tuiles de carte affichées, ou la zone d'environ 20 km autour du drone ; en Suisse, la position du drone (pour connaître la zone où il se trouve) |
+| DFS / ministère fédéral allemand des transports (carte dipul, uas-betrieb.de) | Zones drones officielles en Allemagne | Les tuiles de carte affichées ; la position du drone (pour connaître la zone où il se trouve) |
+| Luftfartstilsynet (dronesoner.no, Norvège), LFV (dronechart.lfv.se, Suède), Traficom (Finlande), Trafikstyrelsen (via ArcGIS Online, Danemark) | Zones drones officielles de ces pays | Rien de particulier : le fichier complet des zones du pays est téléchargé (au plus une fois par jour) quand la carte ou le drone est dans ce pays |
+| FAA (Federal Aviation Administration, États-Unis, via ArcGIS Online / Esri) | Zones drones officielles aux États-Unis (plafonds autour des aéroports, zones de sécurité nationale, zones interdites, stades) | La zone d'environ 20 km autour du drone ou de la carte affichée (seulement aux États-Unis) |
 | Amazon Web Services (Terrain Tiles) | Relief du terrain pour les parcours | Les numéros des tuiles de relief de la zone |
 | Google Play | Installation, mises à jour, achat « Sans pub » | Géré par Google selon ses propres règles |
 
