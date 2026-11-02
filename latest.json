@@ -1,7 +1,7 @@
 {
- "versionCode": 65,
- "versionName": "0.65",
+ "versionCode": 66,
+ "versionName": "0.66",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "092296e37d7878a70f53a401e9af1ffd68a1170fc53df67f1d14fc29590cd65a",
- "notes": "Nouveau : message de bienvenue à la première connexion, bouton 💬 « Ton avis compte » sur l'accueil (journal ou idée), et après un incident (urgence, moteur, connexion perdue, plantage) l'appli propose d'envoyer le journal."
+ "sha256": "71d7a0313d79f8f3fffb715467792d440447cd811d68b248a0b1ca32367e5ba4",
+ "notes": "Nouveaux pays : règles des 27 pays de l'UE, Norvège, Islande, Liechtenstein, Royaume-Uni et États-Unis ; zones officielles sur la carte pour les États-Unis (FAA), l'Allemagne, la Norvège, la Suède, la Finlande et le Danemark. Commande vocale : « Drone » par défaut et ton propre mot d'appel au choix (Réglages → Mot d'appel → Mon propre nom). Codes testeurs Pro liés au téléphone."
 }
