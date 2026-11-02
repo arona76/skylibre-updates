@@ -1,7 +1,7 @@
 {
- "versionCode": 63,
- "versionName": "0.63",
+ "versionCode": 64,
+ "versionName": "0.64",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "ab5abf37a70c594e3c28519c167e8577088467401d67d37666712c4b81022246",
- "notes": "SkyLibre parle anglais : sur un téléphone en anglais, l'appli et la voix passent en anglais. Pour essayer : Réglages du drone → Langue · Language → English (et revenir en Français de la même façon). Barre du Flight Plan défilable sur les petits écrans."
+ "sha256": "08d051213b747c8695315f87bec6604f5aeff26cc32937ffff0a28022944502c",
+ "notes": "Nouveau : redresser les photos fisheye. Galerie → 🔧 Redresser des photos (ou touche une photo récupérée). Une photo : gratuit ; plusieurs d'un coup : Pro. L'original est gardé, la photo droite va dans Images/Bebop/Redressées."
 }
