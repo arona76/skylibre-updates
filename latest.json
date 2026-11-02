@@ -1,7 +1,7 @@
 {
- "versionCode": 62,
- "versionName": "0.62",
+ "versionCode": 63,
+ "versionName": "0.63",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "0cd30b520ccb4b4f8e140a0863f093ed0f34cd2c6015780a3c9ed4ff3d708420",
- "notes": "Nouvelle voix Jarvis complète (commande vocale, pannes, scan, reprise). Une erreur moteur bloque le décollage. Les zones et règles des pays préviennent sans bloquer : c'est toi qui décides. Flight Plan : points jusqu'à 150 m, limites en simples avertissements, suivi des points plus fiable."
+ "sha256": "ab5abf37a70c594e3c28519c167e8577088467401d67d37666712c4b81022246",
+ "notes": "SkyLibre parle anglais : sur un téléphone en anglais, l'appli et la voix passent en anglais. Pour essayer : Réglages du drone → Langue · Language → English (et revenir en Français de la même façon). Barre du Flight Plan défilable sur les petits écrans."
 }
