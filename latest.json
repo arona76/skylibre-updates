@@ -1,7 +1,7 @@
 {
- "versionCode": 66,
- "versionName": "0.66",
+ "versionCode": 67,
+ "versionName": "0.67",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "71d7a0313d79f8f3fffb715467792d440447cd811d68b248a0b1ca32367e5ba4",
- "notes": "Nouveaux pays : règles des 27 pays de l'UE, Norvège, Islande, Liechtenstein, Royaume-Uni et États-Unis ; zones officielles sur la carte pour les États-Unis (FAA), l'Allemagne, la Norvège, la Suède, la Finlande et le Danemark. Commande vocale : « Drone » par défaut et ton propre mot d'appel au choix (Réglages → Mot d'appel → Mon propre nom). Codes testeurs Pro liés au téléphone."
+ "sha256": "725d92092399d68ea8db588d8e4701ca74c94cf9098c7dd9fb2f5c2de1a040cb",
+ "notes": "Les boutons de droite de l'écran de pilotage ne cachent plus le joystick. Flight Plan : SkyLibre te prévient si une colline te cache le drone (profil et avertissements). Message clair si une mise à jour échoue faute d'internet."
 }
