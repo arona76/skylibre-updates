@@ -1,7 +1,7 @@
 {
- "versionCode": 68,
- "versionName": "0.68",
+ "versionCode": 69,
+ "versionName": "0.69",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "f63f16fddd27b8b62ea064518e26548f5ec72fedb78d1ec97d1c2de92bdfc3af",
- "notes": "Nouveau : SkyLibre parle 8 langues (français, anglais, allemand, espagnol, italien, portugais, néerlandais, polonais) — Réglages → 🌐 Langue. Commande vocale dans la langue choisie. Lunettes FPV : la caméra suit les mouvements de ta tête (Pro, bouton de volume = recentrer). Sécurité : retour automatique à 20 % de batterie par défaut."
+ "sha256": "f5c600a1c6788eea4d2354bba455b35c00f675db52131b6c3d38a37d3ea180c3",
+ "notes": "Nouveau (Pro) : vidéo avec les données de vol incrustées. Galerie → touche une vidéo → « 🎞 Ajouter les données de vol », puis coche ce que tu veux voir : vitesse, hauteur, distance, batterie, carte du trajet, date, GPS. Marche pour les vidéos filmées pendant un vol avec SkyLibre."
 }
