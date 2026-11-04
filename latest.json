@@ -1,7 +1,7 @@
 {
- "versionCode": 74,
- "versionName": "0.74",
+ "versionCode": 75,
+ "versionName": "0.75",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "b2cd577d1bd0d6d5eb8cc4e4b3d7ddc34f02529ab8c7de65345e3a5e34e3161d",
- "notes": "Alerte « obstacle devant », et signal faible + trop bas : SkyLibre te dit à quelle hauteur monter (il ne prend jamais les commandes)"
+ "sha256": "c98d1f419b12d3fdf3543b8166ce004bd6891ce3e1d22fd606842c0118ed8a99",
+ "notes": "Icône Boomerang lisible sur tous les téléphones"
 }
