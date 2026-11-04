@@ -1,7 +1,7 @@
 {
- "versionCode": 70,
- "versionName": "0.70",
+ "versionCode": 71,
+ "versionName": "0.71",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "cd45415141845a24cf16be8a510986095a3fd5a56a6ac8d2f04c91145ea34af1",
- "notes": "Replay 3D du vol (carnet de vol, bouton 🎬 3D) et trajet en 3D avec la hauteur sur la vidéo"
+ "sha256": "1598cc2561ffee16fd6da3315381828418e97f3d00df8b9f73e600a429c0e376",
+ "notes": "Vidéo avec données : fond de la carte au choix (photo satellite ou plan, transparent ou non). Replay 3D : bouton photo/plan"
 }
