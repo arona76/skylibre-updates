@@ -1,7 +1,7 @@
 {
- "versionCode": 71,
- "versionName": "0.71",
+ "versionCode": 72,
+ "versionName": "0.72",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "1598cc2561ffee16fd6da3315381828418e97f3d00df8b9f73e600a429c0e376",
- "notes": "Vidéo avec données : fond de la carte au choix (photo satellite ou plan, transparent ou non). Replay 3D : bouton photo/plan"
+ "sha256": "b57ff114dfd6a9687efc7f88dd557a48fd367989e4c817194d1fcc86a713c7ac",
+ "notes": "Nouveautés : écran « Quoi de neuf » après chaque mise à jour (et en touchant « ✨ Nouveautés » sur l'accueil)"
 }
