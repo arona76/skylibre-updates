@@ -1,7 +1,7 @@
 {
- "versionCode": 76,
- "versionName": "0.76",
+ "versionCode": 77,
+ "versionName": "0.77",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "e492832ca37cf4a7f7f1488bf72420dd6b53b8466461d2a99113500b96ab8c2d",
- "notes": "Voix Copilote : alertes obstacles et nombres exacts enregistrés ; icône Boomerang corrigée"
+ "sha256": "90a039657a4ab6007081a2ea04b633e0ced68233339b589dbaadd088aaeb9b5c",
+ "notes": "Réglages : ce que l'alerte obstacles voit et ne voit pas"
 }
