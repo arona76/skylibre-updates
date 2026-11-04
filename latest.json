@@ -1,7 +1,7 @@
 {
- "versionCode": 77,
- "versionName": "0.77",
+ "versionCode": 78,
+ "versionName": "0.78",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "90a039657a4ab6007081a2ea04b633e0ced68233339b589dbaadd088aaeb9b5c",
- "notes": "Réglages : ce que l'alerte obstacles voit et ne voit pas"
+ "sha256": "e59b78f310d3406a5752353f3f177cd78b786cac88c760841c75621be49d7ba7",
+ "notes": "Voix Majordome (le mot « Copilote » est retiré)"
 }
