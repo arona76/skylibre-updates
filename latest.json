@@ -1,7 +1,7 @@
 {
- "versionCode": 75,
- "versionName": "0.75",
+ "versionCode": 76,
+ "versionName": "0.76",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c98d1f419b12d3fdf3543b8166ce004bd6891ce3e1d22fd606842c0118ed8a99",
- "notes": "Icône Boomerang lisible sur tous les téléphones"
+ "sha256": "e492832ca37cf4a7f7f1488bf72420dd6b53b8466461d2a99113500b96ab8c2d",
+ "notes": "Voix Copilote : alertes obstacles et nombres exacts enregistrés ; icône Boomerang corrigée"
 }
