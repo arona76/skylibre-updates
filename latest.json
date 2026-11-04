@@ -1,7 +1,7 @@
 {
- "versionCode": 72,
- "versionName": "0.72",
+ "versionCode": 73,
+ "versionName": "0.73",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "b57ff114dfd6a9687efc7f88dd557a48fd367989e4c817194d1fcc86a713c7ac",
- "notes": "Nouveautés : écran « Quoi de neuf » après chaque mise à jour (et en touchant « ✨ Nouveautés » sur l'accueil)"
+ "sha256": "aaab702f7a83b386358e7ce5eff3092df3a4195580f4b8e7dc5691fa6a91ab0d",
+ "notes": "Relief IGN précis avec les arbres, alerte « arbres devant », retour au-dessus des arbres, vraie hauteur dans le carnet, replay 3D en relief"
 }
