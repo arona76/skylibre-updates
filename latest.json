@@ -1,7 +1,7 @@
 {
- "versionCode": 79,
- "versionName": "0.79",
+ "versionCode": 80,
+ "versionName": "0.80",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "b64a06041d38921bf4f52fe8e6f62f1bc8d5f2f15c450d2de9f4e092744fc77e",
- "notes": "Mode tournage (Réglages du drone) pour filmer les vidéos de démonstration"
+ "sha256": "f8cab1c3d3db5a9807fa5dabea79954f95bf99113c933d90eca87c99224a92a1",
+ "notes": "Corrections après les essais en vol : retour maison annoncé, alerte « le sol monte » seulement quand le sol monte, Flight Plan plus rapide à démarrer et filmé, vidéo qui continue après un Cercle, Wi-Fi et distance au pilote plus fiables."
 }
