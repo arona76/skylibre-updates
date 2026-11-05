@@ -1,7 +1,7 @@
 {
- "versionCode": 81,
- "versionName": "0.81",
+ "versionCode": 82,
+ "versionName": "0.82",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "1744897942538e2d02ebc25e5bf49c620fef6becd1d8255c56524ff8a5aaa6a8",
- "notes": "Cercle et Spirale fluides, sans à-coups (plus lents en mode Cinéma, départ et fin en douceur). Flight Plan : rotation plus régulière. La vidéo du drone n'est plus touchée si elle tourne déjà. Carte de vol ronde et plus petite."
+ "sha256": "411656703d4693fcc47108fbdf21c6eee0ad053d2384a1c4ad7e271a33a2e365",
+ "notes": "Flight Plan : la carte glisse de nouveau sous le doigt quand le drone est connecté. « J'amorce l'atterrissage » est dit dès que le drone descend, et plus de faux « Parcours terminé » à l'atterrissage. Mode tournage : nouvelles étapes (reprises et tutoriels)."
 }
