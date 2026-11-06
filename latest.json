@@ -1,7 +1,7 @@
 {
- "versionCode": 83,
- "versionName": "0.83",
+ "versionCode": 84,
+ "versionName": "0.84",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "beed43fc0b928537161ef7ec81bdbee52c40d9f86453cda4a58c1918da49721b",
- "notes": "Flight Plan : vue 3D des obstacles (relief, arbres, bâtiments) avant de décoller, avec un bouton pour monter les points trop bas, et bouton 🏔 Obstacles. Manches de l'écran plus fiables. « ↩ après le parcours » pendant un vol automatique. Phrases du Majordome. Avertissement si un rapport part sans internet."
+ "sha256": "8cfc3bb13ac96e3b99d0617b1a917ad3e9f2532feeab2ac4391da8a2a27ec0ed",
+ "notes": "Flight Plan : obstacles vérifiés en direct (trajet rouge et bandeau), vue 3D qui se manie comme une carte (déplacer, zoomer, tourner, incliner, voir le point rouge), retour au départ écrit sur la carte."
 }
