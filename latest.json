@@ -1,7 +1,7 @@
 {
- "versionCode": 90,
- "versionName": "0.90",
+ "versionCode": 91,
+ "versionName": "0.91",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "0214144b612b70898244a77ebc556395e5d6d75cc4931ade04637624042e3daa",
- "notes": "Réparation : l'appli ne se ferme plus sur Android 8 et 9 en ouvrant le Flight Plan."
+ "sha256": "c519773a8d42c21987e1b7567f5a2d0cf7c9a7b576e0fef7a3915a409a003bee",
+ "notes": "Lunettes FPV : images en face des lentilles, infos de vol dans chaque œil, « Essayer dans le casque ». Envoyer ce vol à SkyLibre après l'atterrissage. Plus de voix « Urgence » en penchant le drone posé. Réparations Android 8 à 10."
 }
