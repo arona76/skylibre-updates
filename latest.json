@@ -1,7 +1,7 @@
 {
- "versionCode": 85,
- "versionName": "0.85",
+ "versionCode": 86,
+ "versionName": "0.86",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "a78902f68ffdd6d8e11aa673da2b0bf6ab0388b6940e8e006460383d25452478",
- "notes": "Écran de vol épuré : petite carte masquable (Réglages du drone, Carte) et boutons du haut à droite repliables avec la petite flèche."
+ "sha256": "d306c1698ae7e9ec18e5cfe774d0a0c5df975207e6957cffdb6dd0ef5476952b",
+ "notes": "Follow Me : la position du téléphone arrive enfin au drone. Lunettes FPV : la caméra suit de nouveau la tête."
 }
