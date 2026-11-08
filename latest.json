@@ -1,7 +1,7 @@
 {
- "versionCode": 89,
- "versionName": "0.89",
+ "versionCode": 90,
+ "versionName": "0.90",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "e390b1ed5f945ddd01787d67d9a03ce1bbd1e2c40813f7346c505648220c3cf0",
- "notes": "Première SkyController (essai) par son Wi-Fi, messages manette plus clairs."
+ "sha256": "0214144b612b70898244a77ebc556395e5d6d75cc4931ade04637624042e3daa",
+ "notes": "Réparation : l'appli ne se ferme plus sur Android 8 et 9 en ouvrant le Flight Plan."
 }
