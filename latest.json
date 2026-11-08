@@ -1,7 +1,7 @@
 {
- "versionCode": 88,
- "versionName": "0.88",
+ "versionCode": 89,
+ "versionName": "0.89",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "6345e2582666c71e1145e115c9ed6af458154694d7688f0162ad8e3846a5acf6",
- "notes": "Cercle et Spirale : le journal mesure la fluidité (rotation, vitesse) pour trouver les à-coups."
+ "sha256": "e390b1ed5f945ddd01787d67d9a03ce1bbd1e2c40813f7346c505648220c3cf0",
+ "notes": "Première SkyController (essai) par son Wi-Fi, messages manette plus clairs."
 }
