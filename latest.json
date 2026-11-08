@@ -1,7 +1,7 @@
 {
- "versionCode": 86,
- "versionName": "0.86",
+ "versionCode": 87,
+ "versionName": "0.87",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "d306c1698ae7e9ec18e5cfe774d0a0c5df975207e6957cffdb6dd0ef5476952b",
- "notes": "Follow Me : la position du téléphone arrive enfin au drone. Lunettes FPV : la caméra suit de nouveau la tête."
+ "sha256": "9a38377d701ddec9ce463eb5f28b4fde91d54462feeec23ec3cc64016c744863",
+ "notes": "Flight Plan plus simple (assistant, relevé dessiné, aperçu, Prêt à décoller ?). Caméraman piloté par l'app, Follow Me centré, plus de fausse alerte au sol, Fusée plus courte."
 }
