@@ -1,7 +1,7 @@
 {
- "versionCode": 87,
- "versionName": "0.87",
+ "versionCode": 88,
+ "versionName": "0.88",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "9a38377d701ddec9ce463eb5f28b4fde91d54462feeec23ec3cc64016c744863",
- "notes": "Flight Plan plus simple (assistant, relevé dessiné, aperçu, Prêt à décoller ?). Caméraman piloté par l'app, Follow Me centré, plus de fausse alerte au sol, Fusée plus courte."
+ "sha256": "6345e2582666c71e1145e115c9ed6af458154694d7688f0162ad8e3846a5acf6",
+ "notes": "Cercle et Spirale : le journal mesure la fluidité (rotation, vitesse) pour trouver les à-coups."
 }
