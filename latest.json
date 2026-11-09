@@ -1,7 +1,7 @@
 {
- "versionCode": 94,
- "versionName": "0.94",
+ "versionCode": 95,
+ "versionName": "0.95",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "e18e34333ab2e6c6b9dfbf6cb2a0ee450a2c915e00ec0931c145f9bc73b305d1",
- "notes": "Essayer dans le casque : l'écran ne se met plus en veille pendant le réglage à la manette."
+ "sha256": "920830b8c75512bdb19832d78da8cbea603369932a8ec3bc8e964409531debea",
+ "notes": "Mode des manches : mode 1 ou mode 2 (Réglages du drone), pour l'écran, le simulateur et la SkyController 2."
 }
