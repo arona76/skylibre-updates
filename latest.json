@@ -1,7 +1,7 @@
 {
- "versionCode": 97,
- "versionName": "0.97",
+ "versionCode": 98,
+ "versionName": "0.98",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "7fcf6d905afc0ec9513c1aa599114cda40fddeb0d7f3653578597561892bf8ea",
- "notes": "Lunettes : gâchette droite 2 fois = suivi de la tête ; « Drone, active le suivi de tête » ; molette droite plus forte pour la luminosité."
+ "sha256": "ad98bf3972657cb87bc2fa80b296e696429ca67d65ab94f1e1258aa237073ef0",
+ "notes": "Lunettes : gâchette droite 2 fois = suivi de la tête (le Majordome le dit) ; molette droite plus forte pour la luminosité."
 }
