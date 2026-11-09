@@ -1,7 +1,7 @@
 {
- "versionCode": 93,
- "versionName": "0.93",
+ "versionCode": 94,
+ "versionName": "0.94",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "5f4e3f10b6ed70d3e681cf0eafe1c795cb86b52c368d75371e5c404deb3ba17c",
- "notes": "Casque FPV : troisième appui sur Engrenage, la molette droite monte ou descend les images."
+ "sha256": "e18e34333ab2e6c6b9dfbf6cb2a0ee450a2c915e00ec0931c145f9bc73b305d1",
+ "notes": "Essayer dans le casque : l'écran ne se met plus en veille pendant le réglage à la manette."
 }
