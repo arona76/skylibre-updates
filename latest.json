@@ -1,7 +1,7 @@
 {
- "versionCode": 91,
- "versionName": "0.91",
+ "versionCode": 92,
+ "versionName": "0.92",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c519773a8d42c21987e1b7567f5a2d0cf7c9a7b576e0fef7a3915a409a003bee",
- "notes": "Lunettes FPV : images en face des lentilles, infos de vol dans chaque œil, « Essayer dans le casque ». Envoyer ce vol à SkyLibre après l'atterrissage. Plus de voix « Urgence » en penchant le drone posé. Réparations Android 8 à 10."
+ "sha256": "e506e337fdc97fa86a9bc396f62255de2f28e59311e57268e2e3449ff03f3cb7",
+ "notes": "Casque FPV : gâchette droite = recentrer la tête ; Engrenage + molette droite = taille puis écart des images, en vol ou dans « Essayer dans le casque » (manette branchée, drone éteint possible)."
 }
