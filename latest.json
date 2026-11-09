@@ -1,7 +1,7 @@
 {
- "versionCode": 95,
- "versionName": "0.95",
+ "versionCode": 96,
+ "versionName": "0.96",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "920830b8c75512bdb19832d78da8cbea603369932a8ec3bc8e964409531debea",
- "notes": "Mode des manches : mode 1 ou mode 2 (Réglages du drone), pour l'écran, le simulateur et la SkyController 2."
+ "sha256": "a6306f63c9c7d0bc26d3187aa4615ed8687522b69900c1a8b63911873528bd68",
+ "notes": "Casque FPV : les étapes du réglage à la manette s'affichent dans le casque (bouton ⚙ engrenage, molette droite)."
 }
