@@ -1,7 +1,7 @@
 {
- "versionCode": 92,
- "versionName": "0.92",
+ "versionCode": 93,
+ "versionName": "0.93",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "e506e337fdc97fa86a9bc396f62255de2f28e59311e57268e2e3449ff03f3cb7",
- "notes": "Casque FPV : gâchette droite = recentrer la tête ; Engrenage + molette droite = taille puis écart des images, en vol ou dans « Essayer dans le casque » (manette branchée, drone éteint possible)."
+ "sha256": "5f4e3f10b6ed70d3e681cf0eafe1c795cb86b52c368d75371e5c404deb3ba17c",
+ "notes": "Casque FPV : troisième appui sur Engrenage, la molette droite monte ou descend les images."
 }
