@@ -1,7 +1,7 @@
 {
- "versionCode": 98,
- "versionName": "0.98",
+ "versionCode": 99,
+ "versionName": "0.99",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "ad98bf3972657cb87bc2fa80b296e696429ca67d65ab94f1e1258aa237073ef0",
- "notes": "Lunettes : gâchette droite 2 fois = suivi de la tête (le Majordome le dit) ; molette droite plus forte pour la luminosité."
+ "sha256": "d33448e2306b62e71d096a488c6b9cddcfe20bd17a918d4dfda49323ae299e36",
+ "notes": "⚡ Lignes électriques sur la carte (France) et alerte « Attention, ligne électrique devant ! » quand le drone va vers une ligne en volant bas. Idée de Nemesio (Drones Company)."
 }
