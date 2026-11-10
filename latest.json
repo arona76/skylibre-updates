@@ -1,7 +1,7 @@
 {
- "versionCode": 101,
- "versionName": "1.01",
+ "versionCode": 102,
+ "versionName": "1.02",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "efe93c2dd23611504bc6d7b97f07f6dd655faa90b0fc8262896ed79e7a867508",
- "notes": "🔄 Option : la tête fait tourner le drone au-delà de 35° (Réglages du drone, sous le suivi de la tête)."
+ "sha256": "1c1675d5294d31bbb02d8cc6c555261e2fadfb02f8d24a9bfd6e813c267d2e7d",
+ "notes": "🕹 Le simulateur marche avec la SkyController 2 branchée (drone éteint) : manches, Décoller/Atterrir, Maison, casque et suivi de la tête."
 }
