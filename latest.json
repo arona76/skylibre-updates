@@ -1,7 +1,7 @@
 {
- "versionCode": 103,
- "versionName": "1.03",
+ "versionCode": 104,
+ "versionName": "1.04",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "0be56083b715569931ddc3df4952a3f899b8195d890315d18c52e2d34850804b",
- "notes": "1.03 : vue pilote 3D dans le simulateur (maisons, arbres, relief, lignes électriques IGN), bouton Carte / Vue pilote, casque comme en vrai vol ; bouton Maison du simulateur comme la vraie manette"
+ "sha256": "762df1f3cec677888172a079def089843d82538c2e26081176700c2a374d3120",
+ "notes": "1.04 : cockpit d'hélicoptère dans le casque (Pro, gratuit au simulateur) ; alertes du casque en fine bande lumineuse en haut, la vue reste dégagée"
 }
