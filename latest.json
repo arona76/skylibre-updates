@@ -1,7 +1,7 @@
 {
- "versionCode": 102,
- "versionName": "1.02",
+ "versionCode": 103,
+ "versionName": "1.03",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "1c1675d5294d31bbb02d8cc6c555261e2fadfb02f8d24a9bfd6e813c267d2e7d",
- "notes": "🕹 Le simulateur marche avec la SkyController 2 branchée (drone éteint) : manches, Décoller/Atterrir, Maison, casque et suivi de la tête."
+ "sha256": "0be56083b715569931ddc3df4952a3f899b8195d890315d18c52e2d34850804b",
+ "notes": "1.03 : vue pilote 3D dans le simulateur (maisons, arbres, relief, lignes électriques IGN), bouton Carte / Vue pilote, casque comme en vrai vol ; bouton Maison du simulateur comme la vraie manette"
 }
