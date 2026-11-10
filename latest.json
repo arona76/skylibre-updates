@@ -1,7 +1,7 @@
 {
- "versionCode": 100,
- "versionName": "1.00",
+ "versionCode": 101,
+ "versionName": "1.01",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "830f8896ef4d2d634462590c9b0936f98d65ad7e91e60938f4bdfa7aca877ce2",
- "notes": "🗣 Le Majordome a sa vraie voix pour les nouvelles phrases : suivi de la tête, ligne électrique devant, arrivée à la maison."
+ "sha256": "efe93c2dd23611504bc6d7b97f07f6dd655faa90b0fc8262896ed79e7a867508",
+ "notes": "🔄 Option : la tête fait tourner le drone au-delà de 35° (Réglages du drone, sous le suivi de la tête)."
 }
