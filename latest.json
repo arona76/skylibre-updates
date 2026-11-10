@@ -1,7 +1,7 @@
 {
- "versionCode": 99,
- "versionName": "0.99",
+ "versionCode": 100,
+ "versionName": "1.00",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "d33448e2306b62e71d096a488c6b9cddcfe20bd17a918d4dfda49323ae299e36",
- "notes": "⚡ Lignes électriques sur la carte (France) et alerte « Attention, ligne électrique devant ! » quand le drone va vers une ligne en volant bas. Idée de Nemesio (Drones Company)."
+ "sha256": "830f8896ef4d2d634462590c9b0936f98d65ad7e91e60938f4bdfa7aca877ce2",
+ "notes": "🗣 Le Majordome a sa vraie voix pour les nouvelles phrases : suivi de la tête, ligne électrique devant, arrivée à la maison."
 }
