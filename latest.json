@@ -1,7 +1,7 @@
 {
- "versionCode": 116,
+ "versionCode": 117,
  "versionName": "1.15",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "91154a4d4c2f5e2926260b98553b04d63297961ba4eb80f3943e6ee9a3a8ddae",
- "notes": "1.15 : fin des vidéos du simulateur avec le logo SkyLibre ; tes voix des modes de vol"
+ "sha256": "30d883d126a0ee082068391f4a82036a99eea13a0268c453c4957272f8141241",
+ "notes": "1.15 : la photo 360° assemblée sur le téléphone ; le simulateur filme ; nouvelles voix"
 }
