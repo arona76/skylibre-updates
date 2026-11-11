@@ -1,7 +1,7 @@
 {
- "versionCode": 119,
- "versionName": "1.16",
+ "versionCode": 120,
+ "versionName": "1.20",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "71e0f139270e7591243a7d5c8ba3b824b02e9b76d3c828a50a5ab788a985064b",
- "notes": "1.16 : photo 360° en un tour (8 photos) avec le vrai objectif du Bebop ; regard libre dans le cockpit (double appui gâchette droite) ; zoom de l'image dans le cockpit (⚙, 5e étape) ; le cockpit est filmé en vol réel ; « drone, prends un panorama »"
+ "sha256": "48edd505e52846d5c8bc2bf0089071ffdfafadec43720fb24b39a27a25571f78",
+ "notes": "1.20 : quatre positions du suivi de la tête dans le cockpit (double appui gâchette droite : caméra + drone, caméra seule, regard libre, coupé) ; tes 6 nouvelles voix ; photo 360° en un tour ; zoom de l'image dans le cockpit ; cockpit filmé en vol réel"
 }
