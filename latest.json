@@ -1,7 +1,7 @@
 {
- "versionCode": 114,
- "versionName": "1.14",
+ "versionCode": 115,
+ "versionName": "1.15",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "4a56f1ecbb0f871ac3bdff1a3a049bd17f7c79eefe7bd0f67576e80f5d427bf1",
- "notes": "1.14 : les modes de vol à la voix (mode sport après « confirme ») ; aide et confirmation lisibles dans le casque"
+ "sha256": "48708d427a4cee13b5ac59cfb3faafbf183a7fb0dce057f9aab7b5677dcf68ab",
+ "notes": "1.15 : le simulateur filme et prend des photos de la vue 3D (galerie Films/SkyLibre) ; boutons photo et vidéo de la manette"
 }
