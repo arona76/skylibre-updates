@@ -1,7 +1,7 @@
 {
- "versionCode": 106,
- "versionName": "1.06",
+ "versionCode": 107,
+ "versionName": "1.07",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "71d92f3f800730c392369520345a99ade57204840364ec18c3f54024ab3986b6",
- "notes": "1.06 : nouveau cockpit d'hélicoptère EC135 (Pro), et deux cockpits au choix (EC130/EC135) à télécharger dans Réglages → Casque ; la gâchette gauche de la manette fait défiler écran → casque → EC130 → EC135 → écran."
+ "sha256": "889e6e523c16c14d0ed7fdab4997301e9d4a8b6929b8545cb22a41f9b2640cc1",
+ "notes": "1.07 : cockpit EC135, Flight Plan plus sûr, mode des manches par l'appli, journal gardé si l'appli est fermée de force"
 }
