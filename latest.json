@@ -1,7 +1,7 @@
 {
- "versionCode": 111,
- "versionName": "1.11",
+ "versionCode": 112,
+ "versionName": "1.12",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "d448eba342bb060d2d43f71309eca63f18ab188df5fde8b7dbf14cd1f51ba34f",
- "notes": "1.11 : les arbres reviennent dans la 3D ; nouvelles voix du crash ; barre du cap centrée boutons repliés ; écoute de la SkyController 1"
+ "sha256": "84d22d3edab9f4bcfa3b631682b7af2ee1431e7761f785db2c89babd439fcc88",
+ "notes": "1.12 : les arbres passent en douceur d'une vue à l'autre ; crash du simulateur sans les aides du vrai drone"
 }
