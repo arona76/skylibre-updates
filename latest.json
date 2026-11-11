@@ -1,7 +1,7 @@
 {
- "versionCode": 113,
- "versionName": "1.13",
+ "versionCode": 114,
+ "versionName": "1.14",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "841873278ba224d0460a722c1b280775e6fe64d43b5ef9584b9408c39373af0f",
- "notes": "1.13 : le suivi de tête n'annule plus le retour maison ; cockpit : affichage tête haute, tableau de bord fixe, hauteur de la tête réglable"
+ "sha256": "4a56f1ecbb0f871ac3bdff1a3a049bd17f7c79eefe7bd0f67576e80f5d427bf1",
+ "notes": "1.14 : les modes de vol à la voix (mode sport après « confirme ») ; aide et confirmation lisibles dans le casque"
 }
