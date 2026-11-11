@@ -1,7 +1,7 @@
 {
- "versionCode": 107,
- "versionName": "1.07",
+ "versionCode": 108,
+ "versionName": "1.08",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "889e6e523c16c14d0ed7fdab4997301e9d4a8b6929b8545cb22a41f9b2640cc1",
- "notes": "1.07 : cockpit EC135, Flight Plan plus sûr, mode des manches par l'appli, journal gardé si l'appli est fermée de force"
+ "sha256": "6530ba7bdd54aaeed6bb171323c7a077d42fa39485d2f5d0ae3aab7a80ee4fdf",
+ "notes": "1.08 : chocs dans le simulateur, 3D plus rapide sur les petits appareils, durées du chargement 3D dans le journal"
 }
