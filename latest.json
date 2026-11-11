@@ -1,7 +1,7 @@
 {
- "versionCode": 108,
- "versionName": "1.08",
+ "versionCode": 109,
+ "versionName": "1.09",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "6530ba7bdd54aaeed6bb171323c7a077d42fa39485d2f5d0ae3aab7a80ee4fdf",
- "notes": "1.08 : chocs dans le simulateur, 3D plus rapide sur les petits appareils, durées du chargement 3D dans le journal"
+ "sha256": "6209f9b02c4d2d1385a2fcd972438d55026d0ef50894013df663120052119d0b",
+ "notes": "1.09 : hauteur au-dessus du sol, corrections du crash dans le simulateur"
 }
