@@ -1,7 +1,7 @@
 {
- "versionCode": 112,
- "versionName": "1.12",
+ "versionCode": 113,
+ "versionName": "1.13",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "84d22d3edab9f4bcfa3b631682b7af2ee1431e7761f785db2c89babd439fcc88",
- "notes": "1.12 : les arbres passent en douceur d'une vue à l'autre ; crash du simulateur sans les aides du vrai drone"
+ "sha256": "841873278ba224d0460a722c1b280775e6fe64d43b5ef9584b9408c39373af0f",
+ "notes": "1.13 : le suivi de tête n'annule plus le retour maison ; cockpit : affichage tête haute, tableau de bord fixe, hauteur de la tête réglable"
 }
