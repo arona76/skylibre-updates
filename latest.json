@@ -1,7 +1,7 @@
 {
- "versionCode": 110,
- "versionName": "1.10",
+ "versionCode": 111,
+ "versionName": "1.11",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "4212838d0454a7e58117233393beded6f7aa7dc5611cf330a0623f87af728f96",
- "notes": "1.10 : distance annoncée tous les 100 m au-delà de 500 m ; les arbres de la 3D ne changent plus quand on s'approche ; 3D plus rapide, préparée dès le démarrage du simulateur"
+ "sha256": "d448eba342bb060d2d43f71309eca63f18ab188df5fde8b7dbf14cd1f51ba34f",
+ "notes": "1.11 : les arbres reviennent dans la 3D ; nouvelles voix du crash ; barre du cap centrée boutons repliés ; écoute de la SkyController 1"
 }
