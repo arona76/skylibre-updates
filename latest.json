@@ -1,7 +1,7 @@
 {
- "versionCode": 120,
- "versionName": "1.20",
+ "versionCode": 121,
+ "versionName": "1.21",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "48edd505e52846d5c8bc2bf0089071ffdfafadec43720fb24b39a27a25571f78",
- "notes": "1.20 : quatre positions du suivi de la tête dans le cockpit (double appui gâchette droite : caméra + drone, caméra seule, regard libre, coupé) ; tes 6 nouvelles voix ; photo 360° en un tour ; zoom de l'image dans le cockpit ; cockpit filmé en vol réel"
+ "sha256": "ed717a85a0fc8c88bb113babb49e3fe0c0553ba01760104f714e610fa6a97688",
+ "notes": "1.21 : la tête fait tourner le drone dès 30°, en continu et plus vite (Réglages : vitesse de rotation par la tête) ; simulateur : part de ta vraie position, bouton « ⟲ Retour au départ », l'envoi du vol attend la fenêtre du crash"
 }
