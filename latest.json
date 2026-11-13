@@ -1,7 +1,7 @@
 {
- "versionCode": 124,
- "versionName": "1.24",
+ "versionCode": 125,
+ "versionName": "1.25",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "b5f4c5d14dd92f8fcb6556af6e89e3fc23abba1fded14a083d846cb4633e30c5",
- "notes": "1.24 (essai) : réalité synthétique sans plantage, plus de lignes figées dans le casque, écran de vol réglable (3 styles), cockpits sans flou ni crans (mémoire du monde), réglages corrigés"
+ "sha256": "2980e57df60bfa020410abc1f4006a9bf9b80aa54e67c05aadadb52d486abde6",
+ "notes": "1.25 : réalité synthétique (lignes à moins de 50 m, traits fins), rapport de plantage lisible, mémoire du monde coupée, vidéo du cockpit avec son et messages, réglages du casque dans l'onglet Casque"
 }
