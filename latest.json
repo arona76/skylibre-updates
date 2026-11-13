@@ -1,7 +1,7 @@
 {
- "versionCode": 123,
- "versionName": "1.23",
+ "versionCode": 124,
+ "versionName": "1.24",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "55366cc0b2bb9c9417caa4d8463f10b3b133015da2ba698dd1526ddb45ba7dbf",
- "notes": "1.23 : rétroviseurs du Tigre, loupe (deux gâchettes), micro qui entend mieux, son des hélicos plus doux et coupable à la voix, boutons de la manette expliqués, barre de chargement du simulateur"
+ "sha256": "b5f4c5d14dd92f8fcb6556af6e89e3fc23abba1fded14a083d846cb4633e30c5",
+ "notes": "1.24 (essai) : réalité synthétique sans plantage, plus de lignes figées dans le casque, écran de vol réglable (3 styles), cockpits sans flou ni crans (mémoire du monde), réglages corrigés"
 }
