@@ -1,7 +1,7 @@
 {
- "versionCode": 125,
- "versionName": "1.25",
+ "versionCode": 126,
+ "versionName": "1.26",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "2980e57df60bfa020410abc1f4006a9bf9b80aa54e67c05aadadb52d486abde6",
- "notes": "1.25 : réalité synthétique (lignes à moins de 50 m, traits fins), rapport de plantage lisible, mémoire du monde coupée, vidéo du cockpit avec son et messages, réglages du casque dans l'onglet Casque"
+ "sha256": "c25d614302e0f61018afa88dc05b53abbe43048059d2d4bc4c5989e2b70fa9b3",
+ "notes": "1.26 : zoom de la vue du pilote à la molette gauche (cockpits), arbres tout autour (5 à 100 m), vue des cockpits sans à-coups, bord de l'image en fondu, distance du pilote, écran noir à la sortie du casque"
 }
