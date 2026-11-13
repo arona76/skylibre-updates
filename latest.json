@@ -1,7 +1,7 @@
 {
- "versionCode": 126,
- "versionName": "1.26",
+ "versionCode": 127,
+ "versionName": "1.27",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c25d614302e0f61018afa88dc05b53abbe43048059d2d4bc4c5989e2b70fa9b3",
- "notes": "1.26 : zoom de la vue du pilote à la molette gauche (cockpits), arbres tout autour (5 à 100 m), vue des cockpits sans à-coups, bord de l'image en fondu, distance du pilote, écran noir à la sortie du casque"
+ "sha256": "8137a1fc743de088d4bda2f6922d00b4751e94a7adf5ac718a73c7de5debf21c",
+ "notes": "1.27 : Galerie en tâche de fond, données de vol réglées avant la récupération, commande vocale qui ne plante plus dans le bruit, carnet de vol en paysage, conseil Wi-Fi direct"
 }
