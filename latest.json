@@ -1,7 +1,7 @@
 {
- "versionCode": 128,
- "versionName": "1.28",
+ "versionCode": 129,
+ "versionName": "1.29",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "3089e92028b452cf97507a1bf41eada416d3059284583417dc297f713a56b369",
- "notes": "1.28 : simulateur à l'endroit de votre choix, zoom de la vidéo à la molette droite, Tigre redressé, voix mieux comprise dans la cabine."
+ "sha256": "f8166df91020da89d037706878b0b6081da3fd5255809f8d13c290c7a0a5d811",
+ "notes": "Zones annoncées avant d'y entrer, distances au choix, alertes en bande fine, simulateur comme en vrai, nouvelles voix."
 }
