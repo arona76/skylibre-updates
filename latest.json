@@ -1,7 +1,7 @@
 {
- "versionCode": 129,
- "versionName": "1.29",
+ "versionCode": 130,
+ "versionName": "1.30",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "f8166df91020da89d037706878b0b6081da3fd5255809f8d13c290c7a0a5d811",
- "notes": "Zones annoncées avant d'y entrer, distances au choix, alertes en bande fine, simulateur comme en vrai, nouvelles voix."
+ "sha256": "a03fa5ec98ce511095573b890b59fd0e3759c0bd188a25c4d58641dbda5c6538",
+ "notes": "Simulateur : pastille violette cliquable en entier, grande carte sans carrés noirs, boutons Caméra maintenus, mer sans arbres."
 }
