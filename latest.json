@@ -1,7 +1,7 @@
 {
- "versionCode": 127,
- "versionName": "1.27",
+ "versionCode": 128,
+ "versionName": "1.28",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "8137a1fc743de088d4bda2f6922d00b4751e94a7adf5ac718a73c7de5debf21c",
- "notes": "1.27 : Galerie en tâche de fond, données de vol réglées avant la récupération, commande vocale qui ne plante plus dans le bruit, carnet de vol en paysage, conseil Wi-Fi direct"
+ "sha256": "3089e92028b452cf97507a1bf41eada416d3059284583417dc297f713a56b369",
+ "notes": "1.28 : simulateur à l'endroit de votre choix, zoom de la vidéo à la molette droite, Tigre redressé, voix mieux comprise dans la cabine."
 }
