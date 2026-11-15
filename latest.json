@@ -1,7 +1,7 @@
 {
- "versionCode": 130,
- "versionName": "1.30",
+ "versionCode": 131,
+ "versionName": "1.31",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "a03fa5ec98ce511095573b890b59fd0e3759c0bd188a25c4d58641dbda5c6538",
- "notes": "Simulateur : pastille violette cliquable en entier, grande carte sans carrés noirs, boutons Caméra maintenus, mer sans arbres."
+ "sha256": "1061c2c42a55e97f0ca472e51cc0c31f39a3d5c58b8995e6dd71010fed411fee",
+ "notes": "La voix parle moins ; rond violet du simulateur sur le bord de la mini-carte ; écran plus propre."
 }
