@@ -1,7 +1,7 @@
 {
- "versionCode": 131,
- "versionName": "1.31",
+ "versionCode": 132,
+ "versionName": "1.32",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "1061c2c42a55e97f0ca472e51cc0c31f39a3d5c58b8995e6dd71010fed411fee",
- "notes": "La voix parle moins ; rond violet du simulateur sur le bord de la mini-carte ; écran plus propre."
+ "sha256": "7abee74b6e59eb04a95715720dba959fd87d6226a5d9d715259e79dbc5c6975f",
+ "notes": "1.32 : zones annoncées selon la vitesse, écoute de 15 s après « pas compris », maisons à la bonne hauteur, grands bâtiments clairs"
 }
