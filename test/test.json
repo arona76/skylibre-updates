@@ -1,5 +1,5 @@
 {
- "sha256": "c14a27edf021ab2eeede9afbe5c9a7a7fa7a4e83923624737156e7a0550f0eac",
- "notes": "Essai 3 : liste avant vol « le drone », ANAFI dans le simulateur de SkyLibre, caméra -90..+90 pour l'ANAFI",
- "date": "2026-11-17 00:29"
+ "sha256": "0326881608a04b37bd6a7fe176da2fcdaff589ace27a87c64f45fe87f4f6529d",
+ "notes": "Essai 3b : vidéo ANAFI attend la caméra + redemande, ANAFI dans le simulateur, liste avant vol",
+ "date": "2026-11-17 00:37"
 }
