@@ -1,7 +1,7 @@
 {
- "versionCode": 133,
- "versionName": "1.33",
+ "versionCode": 134,
+ "versionName": "1.34",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "a113adcfafe64b49eaa1af7ff7b19bc2158bf4bafa8b537570da48593609507f",
- "notes": "Premiers pas avec l'ANAFI (essai) ; commande vocale prête pour Android 15 et 16"
+ "sha256": "329d8ceebc0428120b7b1415891691a82715f941e67671961e928dc16f2bfbc1",
+ "notes": "1.34 : image en direct de l'ANAFI (image grise de départ), plus de chemin de retour FTP pour l'ANAFI"
 }
