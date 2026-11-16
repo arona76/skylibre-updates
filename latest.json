@@ -1,7 +1,7 @@
 {
- "versionCode": 132,
- "versionName": "1.32",
+ "versionCode": 133,
+ "versionName": "1.33",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "7abee74b6e59eb04a95715720dba959fd87d6226a5d9d715259e79dbc5c6975f",
- "notes": "1.32 : zones annoncées selon la vitesse, écoute de 15 s après « pas compris », maisons à la bonne hauteur, grands bâtiments clairs"
+ "sha256": "a113adcfafe64b49eaa1af7ff7b19bc2158bf4bafa8b537570da48593609507f",
+ "notes": "Premiers pas avec l'ANAFI (essai) ; commande vocale prête pour Android 15 et 16"
 }
