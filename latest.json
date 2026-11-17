@@ -1,7 +1,7 @@
 {
- "versionCode": 136,
- "versionName": "1.36",
+ "versionCode": 137,
+ "versionName": "1.37",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "8785fdb99dbf712833b4e7ac8e4c8a312fe984bb01913899be6fa5b472041ffc",
- "notes": "1.36 : écran « Réseaux vus par la manette » (SkyController 2), les deux voix ne parlent plus en même temps."
+ "sha256": "e521afc874c6707dfec2263620c0eec70cad72c73fba5d1d32c497b9b264223e",
+ "notes": "1.37 : la SkyController 2 montre les drones qu'elle voit et peut se relier à l'un d'eux ; effet d'appui sur les grands boutons."
 }
