@@ -1,7 +1,7 @@
 {
- "versionCode": 138,
- "versionName": "1.38",
+ "versionCode": 139,
+ "versionName": "1.39",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "7c4ed84acaddb5215e5b488b95171017c9b96695a0ab8b41b8b5e097efb937d7",
- "notes": "1.38 : la SkyController 2 comme simple manette pour l'ANAFI en Wi-Fi (essai)."
+ "sha256": "b8dba6bc2fe44f566fe0233850df5dc13558dfb3b1d3a20af81f17600f52b339",
+ "notes": "Suivi de la tête avec l'ANAFI : le drone tourne dans le bon sens, l'image ne saute plus dans les cockpits ; aide expliquée pour l'ANAFI."
 }
