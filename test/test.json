@@ -1,5 +1,5 @@
 {
- "sha256": "9a2f61156e4258c004d2130da7ada84e803168e46b74332f8c5b40dcaf4f6d46",
- "notes": "Essai 4 : décollage redemandé, GPS, alerte de coupure, bulle de retour ANAFI, textes ANAFI",
- "date": "2026-11-17 05:47"
+ "sha256": "1474e089805ce9f5760932b3d17b70db334abe38e56dec26480564d0a7b80df4",
+ "notes": "Essai 5 : retour par le même chemin et Flight Plan pour l'ANAFI (HTTP)",
+ "date": "2026-11-17 06:01"
 }
