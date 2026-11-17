@@ -1,5 +1,5 @@
 {
- "sha256": "a96d453b2eb2b1abdf65dfdff7dd421a1a514747c6500d1829ae434b600bc900",
- "notes": "Essai 22 : porte d'essai du casque, ANAFI sans gauche/droite caméra, cap au journal",
- "date": "2026-11-17 19:58"
+ "sha256": "d6da9c93ff63ecd0ffce966d3f87d778e8ac1ea3c2480b66d83f99537e7e5a60",
+ "notes": "Essai 23 : journal en direct (logcat), texte Pro traduit",
+ "date": "2026-11-17 20:32"
 }
