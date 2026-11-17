@@ -1,7 +1,7 @@
 {
- "versionCode": 135,
- "versionName": "1.35",
+ "versionCode": 136,
+ "versionName": "1.36",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "2d07d3f6f2bc1802aaa7df6d05db2c842dc94e386714c4478bf3881349b11c42",
- "notes": "1.35 : ANAFI en vol (essai), simulateur Bebop 2 ou ANAFI, carte de France en 3D dans les cockpits, boussole 3D, chemin du retour sur les cartes."
+ "sha256": "8785fdb99dbf712833b4e7ac8e4c8a312fe984bb01913899be6fa5b472041ffc",
+ "notes": "1.36 : écran « Réseaux vus par la manette » (SkyController 2), les deux voix ne parlent plus en même temps."
 }
