@@ -1,5 +1,5 @@
 {
- "sha256": "38214902917bf5c9a3bc2b7cc45f71092f218e41d41e04681602bb6ea0d0ee3b",
- "notes": "Essai 17 : simulateur ANAFI dans la version normale, urgence, retour au-dessus des arbres jusqu'au départ",
- "date": "2026-11-17 11:32"
+ "sha256": "547a46b27f724da1d2b5918059740dcc334f3c161d6413132e88e69dfb58598e",
+ "notes": "Essai 18 : réglages de retour de l'ANAFI (délai de liaison perdue, retour automatique batterie)",
+ "date": "2026-11-17 11:50"
 }
