@@ -1,5 +1,5 @@
 {
- "sha256": "88a0b6e3b2f40ba037c27f19b0a80cf1d56cc7c503d4eb7ca21dfdad9fd1193f",
- "notes": "Essai 10 : Flight Plan (pause au manche, reprise, retour au Flight Plan), modes photo ANAFI, étalonnage, figures, faux ANAFI 4/2 m/s, retour au-dessus des arbres",
- "date": "2026-11-17 08:49"
+ "sha256": "ea941751438b22cb15fa05ef827afa2a394b6c8a0074e0ef6cddb52cf68039e5",
+ "notes": "Essai 11 : panorama ANAFI selon l'état vidéo du drone, Signal faible dans le simulateur, texte de clôture ANAFI",
+ "date": "2026-11-17 09:08"
 }
