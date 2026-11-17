@@ -1,7 +1,7 @@
 {
- "versionCode": 137,
- "versionName": "1.37",
+ "versionCode": 138,
+ "versionName": "1.38",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "e521afc874c6707dfec2263620c0eec70cad72c73fba5d1d32c497b9b264223e",
- "notes": "1.37 : la SkyController 2 montre les drones qu'elle voit et peut se relier à l'un d'eux ; effet d'appui sur les grands boutons."
+ "sha256": "7c4ed84acaddb5215e5b488b95171017c9b96695a0ab8b41b8b5e097efb937d7",
+ "notes": "1.38 : la SkyController 2 comme simple manette pour l'ANAFI en Wi-Fi (essai)."
 }
