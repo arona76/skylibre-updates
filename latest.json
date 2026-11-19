@@ -1,7 +1,7 @@
 {
- "versionCode": 140,
- "versionName": "1.40",
+ "versionCode": 142,
+ "versionName": "1.42",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "2ade17fe3aad9d5b61ef3ae99b58c0aa94e8a853043c495b362b4ea4d23433b3",
- "notes": "Cockpits de l'ANAFI comme avec le Bebop (image plus grande), message si le son est trop bas, hachures de la carte plus discrètes, avertissement ANAFI à chaque connexion et ouvert par la manette."
+ "sha256": "2b1195105ffdf23aac92f8bbb3b966bbd7dc6d7b609571d8bc82492a61e3543d",
+ "notes": "Préparer le vol et essayer son parcours : ZICAD, vigilance, essai du Flight Plan dans le simulateur, figures, voix françaises et anglaises à télécharger."
 }
