@@ -1,7 +1,7 @@
 {
- "versionCode": 142,
- "versionName": "1.42",
+ "versionCode": 143,
+ "versionName": "1.43",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "2b1195105ffdf23aac92f8bbb3b966bbd7dc6d7b609571d8bc82492a61e3543d",
- "notes": "Préparer le vol et essayer son parcours : ZICAD, vigilance, essai du Flight Plan dans le simulateur, figures, voix françaises et anglaises à télécharger."
+ "sha256": "34f35a671bb988b09a0911cfd1be54f5037a08dc3570b630b6f7cd5acac10c9c",
+ "notes": "Écran télé : la pastille 📺 Télé envoie la vue du drone ou du cockpit sur une télé avec SkyLibre ; Essayer marche aussi avec la manette branchée."
 }
