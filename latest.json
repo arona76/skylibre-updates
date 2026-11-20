@@ -1,7 +1,7 @@
 {
- "versionCode": 143,
- "versionName": "1.43",
+ "versionCode": 144,
+ "versionName": "1.44",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "34f35a671bb988b09a0911cfd1be54f5037a08dc3570b630b6f7cd5acac10c9c",
- "notes": "Écran télé : la pastille 📺 Télé envoie la vue du drone ou du cockpit sur une télé avec SkyLibre ; Essayer marche aussi avec la manette branchée."
+ "sha256": "d93c46c5cb4871bc00f28a72701c45b403a2fbbb44966cc97575771d6bff565c",
+ "notes": "Télé plus nette (la télé dessine le simulateur, jusqu'en 4K), réalité synthétique plus complète (lignes à 100 m, éoliennes, zones, recalage), préparer sans internet, arbres du simulateur"
 }
