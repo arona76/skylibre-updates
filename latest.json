@@ -1,7 +1,7 @@
 {
- "versionCode": 147,
- "versionName": "1.47",
+ "versionCode": 148,
+ "versionName": "1.48",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "ac02d4ae1e796efc1048a8b2f51aeff7ad9b8c09302a314dfcbc09ca66004f95",
- "notes": "1.47 : retour qui contourne les zones interdites, réalité synthétique remise et bien placée dans le simulateur, intro de la télé"
+ "sha256": "a78564189c01c18f18c88f802610da574465f37074ed6fc1be1683c2b2f26f3e",
+ "notes": "1.48 : la télé, des retours plus sûrs et plus rapides"
 }
