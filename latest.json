@@ -1,7 +1,7 @@
 {
- "versionCode": 145,
- "versionName": "1.45",
+ "versionCode": 146,
+ "versionName": "1.46",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c822fc88a19dc1861fe6d9ea06e75a0020aaa2da3c29b2a84e5b66ab23337db8",
- "notes": "Retours plus rapides (mode de vol, urgence 43 km/h), retour selon la batterie et la distance, vitesse par trait du Flight Plan, simulateur fidèle au vrai Bebop 2, télé 1600×900"
+ "sha256": "117cb2bcd87cdb1847cd0c2c582aaa25a15d4ee2dd2d1892eabfe7b169a9059b",
+ "notes": "La télé montre ce que voit le pilote (style, réalité synthétique, alertes), 3D de la télé allégée, simulateur fermé par Android bien nommé dans le journal"
 }
