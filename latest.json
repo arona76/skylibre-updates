@@ -1,7 +1,7 @@
 {
- "versionCode": 152,
- "versionName": "1.52",
+ "versionCode": 153,
+ "versionName": "1.53",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "426d08039599990e94bcbf7c586fe62fe036c4af44993f006d46215e7e5eaba9",
- "notes": "SkyLibre 1.52 : le voyage des exercices, missions photo dans 3 châteaux, atterrissage et retour sans image plus réalistes, avions visibles et audibles, réglage « ne pas aller plus loin quand le signal faiblit »."
+ "sha256": "4f95fe2827c84655764a97647a72670391e43ab608ff67a9237155f2fd45b42a",
+ "notes": "1.53 : atterrissage précis refait, cible des exercices sur les cartes, aide caméra, télé, corrections"
 }
