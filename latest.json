@@ -1,7 +1,7 @@
 {
- "versionCode": 150,
- "versionName": "1.50",
+ "versionCode": 152,
+ "versionName": "1.52",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "cd7b4dd32443d358fdedcf1f07729d36000b03f32069b048f8688f8d41e1c8cd",
- "notes": ""
+ "sha256": "426d08039599990e94bcbf7c586fe62fe036c4af44993f006d46215e7e5eaba9",
+ "notes": "SkyLibre 1.52 : le voyage des exercices, missions photo dans 3 châteaux, atterrissage et retour sans image plus réalistes, avions visibles et audibles, réglage « ne pas aller plus loin quand le signal faiblit »."
 }
