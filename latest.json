@@ -1,7 +1,7 @@
 {
- "versionCode": 157,
- "versionName": "1.57",
+ "versionCode": 158,
+ "versionName": "1.58",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "c0e5f52e6654c792d8adbe624c613cc315c4de352f6ac9afd0493c2637552535",
- "notes": "Anneaux en course, atterrissage chronométré, pilotage de secours (16 niveaux), photo et chasse, promeneurs à éviter, saison 3, corrections"
+ "sha256": "c61fd2e3bb21b10e85188905fe6649e2fcd76d00f217d6e355a84d33b889566a",
+ "notes": "La manette cherche le drone : l'accueil le dit ; avec toute la 1.57 (anneaux en course, atterrissage chronométré, pilotage de secours, promeneurs, saison 3)"
 }
