@@ -1,7 +1,7 @@
 {
- "versionCode": 156,
- "versionName": "1.56",
+ "versionCode": 157,
+ "versionName": "1.57",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "737e9d17ac2e838611826ad78f16640ebdbd51a5fefb74e78bc0581401cd701f",
- "notes": "1.56 : le sol de la 3D revient (avec les vagues), anneau raté annoncé, anneau touché = crash dès le niveau 5, fantôme depuis le premier anneau, aéronefs plus rares et chacun son tour, aides de trajectoire plus calmes"
+ "sha256": "c0e5f52e6654c792d8adbe624c613cc315c4de352f6ac9afd0493c2637552535",
+ "notes": "Anneaux en course, atterrissage chronométré, pilotage de secours (16 niveaux), photo et chasse, promeneurs à éviter, saison 3, corrections"
 }
