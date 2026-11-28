@@ -1,7 +1,7 @@
 {
- "versionCode": 153,
- "versionName": "1.53",
+ "versionCode": 155,
+ "versionName": "1.55",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "4f95fe2827c84655764a97647a72670391e43ab608ff67a9237155f2fd45b42a",
- "notes": "1.53 : atterrissage précis refait, cible des exercices sur les cartes, aide caméra, télé, corrections"
+ "sha256": "6457b5952bc64a7842c66c7aa6b519ad8b3dcb455291509c2c202fbff8b38e07",
+ "notes": "1.55 : aides de trajectoire (où va le drone, ruban 5 s, chemin du retour), Recommencer en exercice, fantôme au choix, saison 2, grande carte avec hauteur/vitesse/Wi-Fi, capture avec le journal, corrections"
 }
