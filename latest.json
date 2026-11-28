@@ -1,7 +1,7 @@
 {
- "versionCode": 155,
- "versionName": "1.55",
+ "versionCode": 156,
+ "versionName": "1.56",
  "apk": "https://raw.githubusercontent.com/arona76/skylibre-updates/main/SkyLibre.apk",
- "sha256": "6457b5952bc64a7842c66c7aa6b519ad8b3dcb455291509c2c202fbff8b38e07",
- "notes": "1.55 : aides de trajectoire (où va le drone, ruban 5 s, chemin du retour), Recommencer en exercice, fantôme au choix, saison 2, grande carte avec hauteur/vitesse/Wi-Fi, capture avec le journal, corrections"
+ "sha256": "737e9d17ac2e838611826ad78f16640ebdbd51a5fefb74e78bc0581401cd701f",
+ "notes": "1.56 : le sol de la 3D revient (avec les vagues), anneau raté annoncé, anneau touché = crash dès le niveau 5, fantôme depuis le premier anneau, aéronefs plus rares et chacun son tour, aides de trajectoire plus calmes"
 }
